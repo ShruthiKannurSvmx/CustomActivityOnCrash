@@ -31,7 +31,7 @@ public class SampleCrashingApplication extends Application {
         super.onCreate();
 
         //You can uncomment any of the lines below, and test the results.
-
+		//smitha
         CaocConfig.Builder.create()
                 //Customizes what to do when the app crashes while it is in background. Possible values:
                 //BackgroundMode.BACKGROUND_MODE_SHOW_CUSTOM: launch the error activity when the app is in background,
